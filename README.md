@@ -1,2 +1,2 @@
-# TechnicalHW1
+# TechnicalHW1 FROM NOTEPAD++
 no
