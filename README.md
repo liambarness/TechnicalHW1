@@ -1,2 +1,2 @@
-# TechnicalHW1 IS IT REALLY?
+# TechnicalHW1 FROM NOTEPAD++
 no
